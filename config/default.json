@@ -1,4 +1,0 @@
-{
-	"mongoURI": "mongodb+srv://RScottLundgren:WhyOhWhyDoYouSuck@contact-keeper.cpyft.mongodb.net/<dbname>?retryWrites=true&w=majority",
-	"jwtSecret": "AccessCode42721"
-}
